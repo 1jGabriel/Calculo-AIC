@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CalculoMedia</string>
+    <string name="AIC">AIC?</string>
+    <string name="CalcularNotaAv2">Calcular Nota</string>
+</resources>
